@@ -25,33 +25,33 @@
 
 <p align="left"> 
     <!-- python -->
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.python.org" target="_blank" title="Python"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <!-- java -->
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank" title="Java"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- js -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <!-- C -->
-    <a href="https://www.learn-c.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
+    <a href="https://www.learn-c.org" target="_blank" title="C Language"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
     <!-- mysql -->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank" title="MySQL"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <!-- html -->
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" title="HTML5"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <!-- css -->
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <!-- sass -->
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
+    <a href="https://sass-lang.com" target="_blank" title="Sass"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <!-- firebase -->
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
+    <a href="https://firebase.google.com/" target="_blank" title="Firebase"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <!-- git -->
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" title="Git"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <!-- react native -->
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank" title="React Native"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- django-->
-    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/windows/48/26e07f/django.png"/> </a>
+    <a href="https://www.djangoproject.com" target="_blank" title="Django"> <img src="https://img.icons8.com/windows/48/26e07f/django.png"/> </a>
     <!-- android -->
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a> 
+    <a href="https://developer.android.com/studio" target="_blank" title="Android"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a> 
     <!-- office -->
-    <a href="https://www.microsoft.com/pt-br/microsoft-365" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/> </a> 
+    <a href="https://www.microsoft.com/pt-br/microsoft-365" target="_blank" title="Office Package"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/> </a> 
 </p>
 
 <br />
