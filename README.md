@@ -46,6 +46,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <!-- react native -->
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <!-- django-->
+    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/windows/32/26e07f/django.png"/> </a>
     <!-- android -->
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a> 
     <!-- office -->
