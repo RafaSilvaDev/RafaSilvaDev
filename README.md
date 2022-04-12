@@ -39,19 +39,25 @@
     <!-- css -->
     <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <!-- sass -->
-    <a href="https://sass-lang.com" target="_blank" title="Sass"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
-    <!-- firebase -->
-    <a href="https://firebase.google.com/" target="_blank" title="Firebase"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
+    <a href="https://sass-lang.com" target="_blank" title="Sass"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>  
     <!-- git -->
     <a href="https://git-scm.com/" target="_blank" title="Git"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <!-- react native -->
     <a href="https://reactjs.org/" target="_blank" title="React Native"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <!-- Vue JS -->
+    <a href="https://vuejs.org" target="_blank" title="Vue JS"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
+    <!-- Nuxt JS -->
+    <a href="https://nuxtjs.org" target="_blank" title="NUXT JS"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/> </a>
+    <!-- Flutter -->
+    <a href="https://flutter.dev" target="_blank" title="Flutter"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <!-- django-->
     <a href="https://www.djangoproject.com" target="_blank" title="Django"> <img src="https://img.icons8.com/windows/48/26e07f/django.png"/> </a>
     <!-- android -->
     <a href="https://developer.android.com/studio" target="_blank" title="Android"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a> 
     <!-- office -->
     <a href="https://www.microsoft.com/pt-br/microsoft-365" target="_blank" title="Office Package"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/> </a> 
+    <!-- Power BI -->
+    <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" title="Power BI"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a> 
 </p>
 
 <br />
@@ -60,4 +66,4 @@
 
 <a href="https://github.com/RafaSilvaDev/github-readme-stats"><img alt="Rafael Barbosa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSilvaDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br />
-<b>Nota:</b> Meu índice de melhores linguagens não reflete totalmente <br /> as linguagens que mais utilizo ou meu nível de habilidade.
+<b>Nota:</b> Meu índice de linguagens mais utilizadas não refletem meu nível de habilidade com cada uma delas.
