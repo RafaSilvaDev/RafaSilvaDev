@@ -25,7 +25,7 @@
 
 <p align="left"> 
     <!-- python -->
-    <a href="https://www.python.org" target="blank" title="Python"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.python.org" target="_blank" title="Python"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <!-- java -->
     <a href="https://www.java.com" target="_blank" title="Java"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- js -->
