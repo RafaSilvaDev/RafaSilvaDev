@@ -56,8 +56,6 @@
     <a href="https://developer.android.com/studio" target="_blank" title="Android"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a> 
     <!-- office -->
     <a href="https://www.microsoft.com/pt-br/microsoft-365" target="_blank" title="Office Package"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/> </a> 
-    <!-- Power BI -->
-    <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" title="Power BI"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a> 
 </p>
 
 <br />
