@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ Sobre mim
 
- - 🤖 Atualmente trabalho na Bosch Brasil.
+ - 🤖 Atualmente trabalho na Encora Inc.
  - 😄 Gosto de ajudar pessoas.
  - 👓 Procuro sempre aprender algo novo.
  - 💬 Me faça perguntas sobre códigos. Podemos aprender mais coisas juntos!
