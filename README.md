@@ -28,6 +28,8 @@
     <a href="https://www.python.org" target="_blank" title="Python"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <!-- java -->
     <a href="https://www.java.com" target="_blank" title="Java"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <!-- spring -->
+    <a href="https://spring.io/" target="_blank" title="Spring"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
     <!-- js -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <!-- C -->
@@ -43,11 +45,9 @@
     <!-- git -->
     <a href="https://git-scm.com/" target="_blank" title="Git"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <!-- react native -->
-    <a href="https://reactjs.org/" target="_blank" title="React Native"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank" title="React"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- Vue JS -->
     <a href="https://vuejs.org" target="_blank" title="Vue JS"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
-    <!-- Nuxt JS -->
-    <a href="https://nuxtjs.org" target="_blank" title="NUXT JS"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/> </a>
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank" title="Flutter"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <!-- django-->
